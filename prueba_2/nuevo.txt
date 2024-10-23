@@ -1,0 +1,18 @@
+Crear los page:
+-home
+-inicio
+-inicioalum
+-login
+-registro
+-detalleciencias
+-detallehistoria
+-datallelenguaje
+-detallemate
+
+(servicios):
+-auth
+-web-servicios
+
+(shared):
+-footer
+-header
